@@ -19,9 +19,6 @@ public class ProfileActivity  extends AppCompatActivity{
 //        String login = (String)extras.get("login");
 //        String password =  (String)extras.get("password");
 
-
-
-
         setContentView(R.layout.profile_layout);
 
         EditText txtLogin = (EditText) findViewById(R.id.txtLogin);
